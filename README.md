@@ -178,6 +178,11 @@ In `loop()`, the sketch calculates `samplesPerFrame` and busy-waits on `audio_pt
 | GIF source file | `GIF_FILE` constant in `gif2h.py` |
 | WAV source file | `file_to_c_array("audioo.wav")` in `wav2h.py` |
 
+## Components used
+<img width="430" height="430" alt="144_inch_lcd-430x430" src="https://github.com/user-attachments/assets/82e019a4-eb37-4c3e-8d61-1f82603e814e" />
+<img width="275" height="183" alt="images" src="https://github.com/user-attachments/assets/275da0a4-f1b9-41f6-97d5-14c27e106964" />
+<img width="400" height="400" alt="PICO-W-17" src="https://github.com/user-attachments/assets/b1eddcca-cce2-41f9-9294-22ef38c1fd1c" />
+
 ---
 
 ## 📝 License
