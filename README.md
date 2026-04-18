@@ -1,4 +1,4 @@
-# 🎬 Mimi — Animated GIF + Audio Player on ESP32-S3
+# 🎬Animated GIF + Audio Player on ESP32-S3
 
 A lightweight embedded media player that plays a **synchronized GIF animation with audio** on a **1.44" ST7735 128×128 TFT display**, powered by an **ESP32-S3 N16R8**.
 
