@@ -6,12 +6,6 @@ It uses delta-frame compression for the GIF and PWM-based audio playback driven 
 
 ---
 
-## 📺 Demo
-
-> *(Add a photo or short video of your device here)*
-
----
-
 ## ✨ Features
 
 - 🖼️ **Delta-compressed GIF playback** — only changed pixels are stored per frame, saving significant flash space
