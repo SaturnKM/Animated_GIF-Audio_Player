@@ -31,9 +31,12 @@ It uses delta-frame compression for the GIF and PWM-based audio playback driven 
 | SDA (MOSI) | 11 |
 | SCL (SCLK) | 12 |
 | CS | 10 |
-| DC / RS | 14 |
+| DC / A0 | 14 |
 | RST | 9 |
 | Speaker (PWM) | 7 |
+| LED | 3v3 |
+| VCC | 3v3 |
+| GND | GND |
 
 > **Speaker tip:** Use the lowest-impedance speaker you have (e.g. 4Ω). PWM audio driven directly from a GPIO is weak — lower impedance draws more current and gives noticeably louder output. The sketch amplifies samples ×8 and clamps to prevent clipping.
 
