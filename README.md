@@ -173,11 +173,13 @@ In `loop()`, the sketch calculates `samplesPerFrame` and busy-waits on `audio_pt
 | WAV source file | `file_to_c_array("audioo.wav")` in `wav2h.py` |
 
 ## Components used
-<img width="430" height="430" alt="144_inch_lcd-430x430" src="https://github.com/user-attachments/assets/82e019a4-eb37-4c3e-8d61-1f82603e814e" />
-<img width="275" height="183" alt="images" src="https://github.com/user-attachments/assets/275da0a4-f1b9-41f6-97d5-14c27e106964" />
-<img width="400" height="400" alt="PICO-W-17" src="https://github.com/user-attachments/assets/b1eddcca-cce2-41f9-9294-22ef38c1fd1c" />
-
----
+ 
+| Component | Image |
+|-----------|-------|
+| 1.44" SPI TFT LCD — ST7735 128×128 | <img width="200" alt="1.44 inch TFT LCD" src="https://github.com/user-attachments/assets/82e019a4-eb37-4c3e-8d61-1f82603e814e" /> |
+| Low-impedance speaker | <img width="200" alt="Speaker" src="https://github.com/user-attachments/assets/275da0a4-f1b9-41f6-97d5-14c27e106964" /> |
+| ESP32-S3 Dual Type C — N16R8 | <img width="200" alt="ESP32-S3 N16R8" src="https://github.com/user-attachments/assets/b1eddcca-cce2-41f9-9294-22ef38c1fd1c" /> |
+ 
 
 ## 📝 License
 
